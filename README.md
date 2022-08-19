@@ -1,6 +1,6 @@
-# OR-Code-Generator 😊
+# QR-Code-Generator 😊
 
-This is an App that enables/helps users to generate a unique QR Code
+This is an App that enables/helps users to generate a unique QR Code.
 
 # Technologies Used
 
