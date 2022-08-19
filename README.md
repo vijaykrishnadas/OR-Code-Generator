@@ -11,3 +11,5 @@ This is an App that enables/helps users to generate a unique QR Code
 # Special Thanks to 
 
 qrcode.js for making this project possible
+
+https://davidshimjs.github.io/qrcodejs/
